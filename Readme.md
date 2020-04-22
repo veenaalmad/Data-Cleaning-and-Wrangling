@@ -6,4 +6,5 @@ https://www.coursera.org/learn/data-analysis-with-python/
 But I also included some of my the ones from the below site for additional cleaning.
 https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
 
+Please feel free to suggest.
 Enjoy!!
